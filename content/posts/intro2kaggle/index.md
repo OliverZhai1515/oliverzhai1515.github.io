@@ -3,7 +3,7 @@ author: Zhai
 title: "Kaggle a data science competition platform"
 date: 2023-11-07
 slug: intro2kaggle
-image: kaggle_logo.png
+image: kaggle_logo.jpg
 description: "学习如何从Kaggle充电"
 categories:
     - BEGIN
