@@ -9,20 +9,6 @@ categories:
     - BEGIN
 ---
 
-<style>
-@media screen and (max-width: 600px) {
-        .article-content .gallery{
-        gap:5px !important;
-        margin-top: -24px;
-    }
-}
-@media screen and (min-width: 600px) {
-        .article-content .gallery{
-        gap:5px !important;
-        margin-top: -28px;
-    }
-}
-</style>
 
 hello Hugo!
 It's my first post.
