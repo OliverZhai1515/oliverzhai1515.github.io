@@ -1,7 +1,7 @@
 ---
 author: Zhai
 title: "如何读论文?"
-date: 2023-11-07
+date: 2023-11-15
 slug: howtoreadpapers
 image: logo.jpg
 description: "跟李沐学AI之论文精读"

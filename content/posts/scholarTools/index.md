@@ -1,7 +1,7 @@
 ---
 author: Zhai
 title: "一些提升科研效率的工具和技巧"
-date: 2023-11-07
+date: 2023-12-05
 slug: scholarTools
 image: logo.jpg
 description: ""

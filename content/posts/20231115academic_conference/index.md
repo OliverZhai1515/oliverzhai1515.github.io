@@ -1,7 +1,7 @@
 ---
 author: Zhai
 title: "Academic Meeting"
-date: 2023-11-07
+date: 2023-11-25
 slug: academicMeeting231115
 image: logo.jpg
 description: "一次小型的学术会议论坛"

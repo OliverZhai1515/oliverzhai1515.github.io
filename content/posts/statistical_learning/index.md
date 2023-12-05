@@ -1,7 +1,7 @@
 ---
 author: Zhai
 title: "关于统计学习"
-date: 2023-11-07
+date: 2023-12-03
 slug: statistical_learning
 image: logo.png
 description: ""
