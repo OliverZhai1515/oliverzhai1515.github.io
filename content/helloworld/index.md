@@ -1,13 +1,10 @@
----
+<!-- ---
 author: Zhai
 title: "Hello World"
 date: 2023-11-07
 slug: helloworld
-image: hello_world.png
 description: "Hello World"
-categories:
-    - BEGIN
----
+--- -->
 
 
 hello Hugo!
