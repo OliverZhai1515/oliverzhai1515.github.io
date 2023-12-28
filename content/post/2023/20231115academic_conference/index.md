@@ -4,7 +4,6 @@ title: "Academic Meeting"
 date: 2023-11-25
 slug: academicMeeting231115
 description: "一次小型的学术会议论坛"
-
 ---
 
 近期参加了2023安徽省智能计算论坛, 在此记录一下收获与感悟.

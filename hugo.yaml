@@ -14,7 +14,7 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-paginate: 15    # 每页显示的文章数
+paginate: 10    # 每页显示的文章数
 
 minify:
     disableXML: true
@@ -29,19 +29,19 @@ permalinks: #浏览器链接显示方式
 # defaultContentLanguageInSubdir: true
 
 
-# menu:
-#   main:
-#     - identifier: categories
-#       name: categories
-#       url: /categories/
-#       weight: 10
+menu:
+  main:
+    - identifier: archive
+      name: archive
+      url: /archive/
+      weight: 10
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     # description: "这是一个纯粹的博客......"
     author: zYosous
     # author: ["Me", "You"] # multiple authors
-    defaultTheme: dark  # defaultTheme: light or  dark 
+    defaultTheme: light  # defaultTheme: light or  dark 
     disableThemeToggle: false
     DateFormat: "2006-01-02"
     ShowShareButtons: false
@@ -61,7 +61,7 @@ params:
     TocOpen: false # 自动展开目录
 
     comments: true
-    
+
     socialIcons:
         - name: github
           url: "https://github.com/OliverZhai1515"
