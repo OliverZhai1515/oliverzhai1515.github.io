@@ -37,6 +37,7 @@ menu:
       weight: 10
 
 params:
+    math: true
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     # description: "这是一个纯粹的博客......"
     author: zYosous
@@ -65,4 +66,3 @@ params:
     socialIcons:
         - name: github
           url: "https://github.com/OliverZhai1515"
-
