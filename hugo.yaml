@@ -1,5 +1,68 @@
 baseURL: https://example.org/
-languageCode: en-us
-title: My New Hugo Site
+languageCode: zh-cn
+title: zYosous0000
 
 theme: hugo-PaperMod-master
+
+enableInlineShortcodes: true #允许内联短码
+enableEmoji: true # 允许使用 Emoji 表情，建议 true
+enableRobotsTXT: true # 允许爬虫抓取到搜索引擎，建议 true
+
+hasCJKLanguage: true # 自动检测是否包含 中文日文韩文 如果文章中使用了很多中文引号的话可以开启
+
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+paginate: 15    # 每页显示的文章数
+
+minify:
+    disableXML: true
+    # minifyOutput: true
+
+permalinks: #浏览器链接显示方式
+  post: "/p/:title/"
+  page: /:slug/
+  # post: "/:year/:month/:day/:title/
+
+defaultContentLanguage: zh-cn # 最顶部首先展示的语言页面
+defaultContentLanguageInSubdir: true
+
+
+# menu:
+#   main:
+#     - identifier: categories
+#       name: categories
+#       url: /categories/
+#       weight: 10
+
+params:
+    env: production # to enable google analytics, opengraph, twitter-cards and schema.
+    # description: "这是一个纯粹的博客......"
+    author: zYosous
+    # author: ["Me", "You"] # multiple authors
+    defaultTheme: dark  # defaultTheme: light or  dark 
+    disableThemeToggle: false
+    DateFormat: "2006-01-02"
+    ShowShareButtons: false
+    ShowReadingTime: true
+    # disableSpecialistPost: true
+    displayFullLangName: true
+    ShowPostNavLinks: false
+    ShowBreadCrumbs: true
+    ShowCodeCopyButtons: true
+    hideFooter: false # 隐藏页脚
+    ShowWordCounts: true
+    VisitCount: true
+
+    ShowLastMod: true #显示文章更新时间
+
+    ShowToc: true # 显示目录
+    TocOpen: false # 自动展开目录
+
+    comments: true
+    
+    socialIcons:
+        - name: github
+          url: "https://github.com/OliverZhai1515"
+
